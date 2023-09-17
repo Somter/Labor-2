@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	Date FirstDate(23, 7, 2022);		
-	cout << "Firsy Date: \n";
+	cout << "Firsy Date: \n"; 
 	FirstDate.Print();	
 	Date SecondDay(20, 5, 2022);
 	cout << "Second Date: \b";	
